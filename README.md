@@ -7,7 +7,7 @@ In this analysis, I'll be examining 'akhx.exe,' a malware sample associated with
 #### Static Analysis
 
 **VirusTotal Report:**
-<img src="https://i.imgur.com/N48VtIf.png">
+<img src="https://i.imgur.com/3E1q2EO.png">
 Hashes:  
 - MD5: 93cd95cbafbef5c843087bb24f6453f9  
 - SHA-1: a8cd16431992c505c454a42fd7519fa8f98332a9  
